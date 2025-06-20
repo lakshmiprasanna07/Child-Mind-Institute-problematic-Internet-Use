@@ -28,9 +28,9 @@ Implemented an ensemble approach using VotingRegressor with four complementary m
 
 ### Setup and Execution
 
-bash
-pip install -r requirements.txt
-jupyter notebook main_notebook.ipynb
+bash   
+- pip install -r requirements.txt
+- jupyter notebook main_notebook.ipynb
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
